@@ -111,3 +111,13 @@ Microsoft Excel | Excel Formulas | Data Analysis | Dashboard Development | Data 
 Neeraj Kumar
 
 LinkedIn | GitHub
+
+**## 🖼️ Dashboard Preview
+
+### CTC Dashboard
+
+![CTC Dashboard](CTC%20Dashboard.png)
+
+### CTC Analysis
+
+![CTC Analysis](CTC%20Analyse.png)**
